@@ -32,13 +32,13 @@
 
 ## Equipe:
 - <a href = "https://github.com/glaivehBR">Glaive Helles</a>
-  <h3> Realizou a criação do Diagrama e foi responsável pelo Conversor de Temperatura. </h3>
+  <h4> Realizou a criação do Diagrama e foi responsável pelo Conversor de Temperatura. </h4>
   
 - <a href = "https://github.com/CaioDavid01">Caio David</a>
-  <h3> Realizou a criação do Jogo Da Velha. </h3>
+  <h4> Realizou a criação do Jogo Da Velha. </h4>
   
 - <a href = "https://github.com/Leon-r9">Emanuel Léon</a>
-  <h3> Contribuiu com a criação da tela de login, criação e divisão do Github. </h3>
+  <h4> Contribuiu com a criação da tela de login, criação e divisão do Github. </h4>
 
 - <a href = "https://github.com/luizamtro">Ana Luiza</a>
-<h3> Realizou a criação dos desings de User Interface(UI), contribuiu com a criação da tela de login e organização do Github. </h3>
+<h4> Realizou a criação dos desings de User Interface(UI), contribuiu com a criação da tela de login e organização do Github. </h4>
