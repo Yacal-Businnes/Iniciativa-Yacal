@@ -38,7 +38,7 @@
   <h3> Realizou a criação do Jogo Da Velha. </h3>
   
 - <a href = "https://github.com/Leon-r9">Emanuel Léon</a>
-  <h3> Contribuiu com a criação da tela de login, Github e slides. </h3>
+  <h3> Contribuiu com a criação da tela de login, criação e divisão do Github. </h3>
 
 - <a href = "https://github.com/luizamtro">Ana Luiza</a>
-<h3> Criação do designe das telas, contribuiu com a criação da tela de login e Github. </h3>
+<h3> Realizou a criação dos desings de User Interface(UI), contribuiu com a criação da tela de login e organização do Github. </h3>
