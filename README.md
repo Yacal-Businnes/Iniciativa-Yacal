@@ -2,7 +2,6 @@
 
 
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
-* [Diagrama](#Diagrama)
 * [Linguagem](#Linguagem)
 * [Equipe](#Equipe)
 * [Sobre](#Sobre)
@@ -37,9 +36,6 @@ Apresentamos um aplicativo multifuncional que integra um conversor de temperatur
 </div>
 
 
-## Diagrama:
-
-
 ## Equipe:
 - <a href = "https://github.com/glaivehBR">Glaive Helles</a>
   <h4> Realizou a criação do Diagrama e foi responsável pelo Conversor de Temperatura. </h4>
@@ -51,4 +47,4 @@ Apresentamos um aplicativo multifuncional que integra um conversor de temperatur
   <h4> Contribuiu com a criação da tela de login, criação e divisão do Github, criação dos slides. </h4>
 
 - <a href = "https://github.com/luizamtro">Ana Luiza</a>
-<h4> Realizou a criação dos desings de User Interface(UI), contribuiu com a criação da tela de login e organização do Github. </h4>
+  <h4> Realizou a criação dos desings de User Interface(UI), contribuiu com a criação da tela de login e organização do Github. </h4>
