@@ -20,6 +20,9 @@ Apresentamos um aplicativo multifuncional que integra um conversor de temperatur
 - Sistema de Login: A fim de personalizar a experiência do usuário e oferecer um ambiente seguro.
 </h5>
 
+- Link do diagrama UML: https://lucid.app/lucidchart/4bfd462c-1200-4a8a-9549-24d7a0a013f7/edit?viewport_loc=-10860%2C-21577%2C23121%2C51842%2CHWEp-vi-RSFO&invitationId=inv_43f509d8-9732-40f2-82f5-f49440bdeed3
+
+
 </h3>
 
 
