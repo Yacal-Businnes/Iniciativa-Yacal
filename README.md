@@ -10,7 +10,17 @@
 
 ## Sobre:
 <h3>
-  Aplicativo de Conversor de temperatura, junto com um jogo da velha para descontrair e com sistema de login.
+Apresentamos um aplicativo multifuncional que integra um conversor de temperatura e um jogo da velha, proporcionando tanto utilidade quanto entretenimento ao usuário.
+
+<h5>
+  
+- Conversor de Temperatura: O aplicativo oferece um conversor de temperatura preciso, permitindo a conversão entre diferentes escalas, como Celsius, Fahrenheit e Kelvin.
+  
+- Jogo da Velha: Para momentos de descontração, o aplicativo inclui um jogo da velha. Esta funcionalidade proporciona uma pausa divertida durante o uso do app.
+
+- Sistema de Login: A fim de personalizar a experiência do usuário e oferecer um ambiente seguro.
+</h5>
+
 </h3>
 
 
